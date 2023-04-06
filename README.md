@@ -1,5 +1,5 @@
 # ddman-Leetcode-recording
-Recording for the Leetcode some problems &amp; solutions
+Recording for the Leetcode practice on some problems &amp; solutions
 
 |  Practice Date   | Degree | Category | Problem Name        | Still in the progress |
 |  -------------   | ------ | ------   | ------------        | --------------------  |
