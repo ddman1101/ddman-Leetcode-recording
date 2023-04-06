@@ -1,7 +1,6 @@
 # ddman-Leetcode-recording
 Recording for the Leetcode some problems &amp; solutions
 
-|  表头   | 表头  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
+|  Practice Date   | Degree | Category | Problem Name        | Still in the progress |
+|  -------------   | ------ | ------   | ------------        | --------------------  |
+|  2023/4/7        | Medium | Stack    | Generate Parenthesis| &#x231B;              |
