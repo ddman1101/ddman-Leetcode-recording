@@ -11,6 +11,7 @@ Recording for the Leetcode practice on some problems &amp; solutions
 |  -------------   | ------ | ------   | ------------        | --------------------     |
 |  2023/4/7        | Medium | Stack    | Generate Parenthesis| &#x2705;                 |
 |  2023/4/10       | Medium | Stack    | Daily Temperatures  | &#x2705;                 |
+|  2023/4/14       | Medium | Stack    | Car Fleet           | :hourglass_flowing_sand: |
 
 ## Contest
 
