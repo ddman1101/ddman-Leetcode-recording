@@ -6,12 +6,13 @@ If there is no future day for which this is possible, keep answer[i] == 0 instea
 
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
-        res = [0] * len(temperatures)
-        stack = []  # pair: [temp, index]
+        res   = [0] * len(temperatures)
+        stack = []
 
-        for i, t in enumerate(temperatures):
+        for i in range(len(temperatures)):
+            t = temperatures[i]
             while stack and t > stack[-1][0]:
-                stackT, stackInd = stack.pop()
-                res[stackInd] = i - stackInd
+                stack_num, stack_int = stack.pop()
+                res[stack_int] = i - stack_int
             stack.append((t, i))
         return res
