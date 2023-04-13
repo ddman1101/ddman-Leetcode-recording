@@ -2,8 +2,8 @@
 Recording for the Leetcode practice on some problems &amp; solutions
 
 ## Signal
-&#x2705; : Done !
-:hourglass_flowing_sand: : on-going
+* &#x2705; : Done !
+* :hourglass_flowing_sand: : on-going
 
 ## Practice
 
