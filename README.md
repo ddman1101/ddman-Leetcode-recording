@@ -1,6 +1,10 @@
 # ddman-Leetcode-recording
 Recording for the Leetcode practice on some problems &amp; solutions
 
+## Signal
+&#x2705; : Done !
+:hourglass_flowing_sand: : on-going
+
 ## Practice
 
 |  Practice Date   | Degree | Category | Problem Name        | Still in the progress    |
