@@ -45,7 +45,15 @@ Constraints:
 
 """
 
-
 class Solution:
     def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
-        return None
+        # get the position and speed to one list and sort it for convenience to calculate
+        pair_list = [(p, s) for p, s in zip(position, speed)]
+        pair_list.sort(reverse=True)
+        stack = []
+        for p, s in pair_list:
+            stack.append((target - p)/s)
+            if (len(stack) >= 2) and (stack[-1] <= stack[-2]):
+                # if stack[-1] <= stack[-2], 2 cars will be the same fleet.
+                stack.pop()
+        return len(stack)
