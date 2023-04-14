@@ -13,7 +13,7 @@
 |  2023/4/7        | Medium | Stack    | Generate Parenthesis           | &#x2705;                 |
 |  2023/4/10       | Medium | Stack    | Daily Temperatures             | &#x2705;                 |
 |  2023/4/14       | Medium | Stack    | Car Fleet                      | &#x2705;                 |
-|  2023/4/15       | Medium | Stack    | Largest Rectangle In Histogram | :hourglass_flowing_sand: |
+|  2023/4/15       | hard   | Stack    | Largest Rectangle In Histogram | :hourglass_flowing_sand: |
 
 ## Contest
 
