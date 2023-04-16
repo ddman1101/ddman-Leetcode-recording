@@ -17,6 +17,8 @@
 
 ## Contest
 
-|  Practice Date   | Degree | Category | Problem Name        | Still in the progress    |
-|  -------------   | ------ | ------   | ------------        | --------------------     |
-|  2023/4/9        | Easy   | TBD      | Prime In Diagonal   | &#x2705;                 |
+|  Practice Date   | Degree | Problem Name                        | Still in the progress |
+|  -------------   | ------ | ------------                        | --------------------  |
+|  2023/4/9        | Easy   | Prime In Diagonal                   | &#x2705;              |
+|  2023/4/16       | Easy   | Row With Maximum Ones               | &#x2705;              |
+|  2023/4/16       | Medium | Find the Maximum Divisibility Score | &#x2705;              |
