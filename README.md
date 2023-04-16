@@ -1,5 +1,5 @@
 # ddman-Leetcode-recording
-- Recording for the Leetcode practice on some problems &amp; solutions.
+- Recording for my Leetcode practice progress (solution) & contest problems solutions.
 - If you want to watch the solution, please go to branch "practice-and-contest" :smiley:
 
 ## Signal
