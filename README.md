@@ -17,8 +17,8 @@
 
 ## Contest
 
-|  Practice Date   | Degree | Problem Name                        | Still in the progress |
-|  -------------   | ------ | ------------                        | --------------------  |
-|  2023/4/9        | Easy   | Prime In Diagonal                   | &#x2705;              |
-|  2023/4/16       | Easy   | Row With Maximum Ones               | &#x2705;              |
-|  2023/4/16       | Medium | Find the Maximum Divisibility Score | &#x2705;              |
+|  Practice Date   | Degree | Problem Name                        | Still in the progress | Time    | Bug        |
+|  -------------   | ------ | ------------                        | --------------------  | ----    | ---        |
+|  2023/4/9        | Easy   | Prime In Diagonal                   | &#x2705;              | 1:11:37 | 5 :beetle: |
+|  2023/4/16       | Easy   | Row With Maximum Ones               | &#x2705;              | 0:40:47 | 2 :beetle: |
+|  2023/4/16       | Medium | Find the Maximum Divisibility Score | &#x2705;              | 1:16:44 | 3 :beetle: |
