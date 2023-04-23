@@ -24,4 +24,40 @@ Constraints:
 
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
-        return None
+        maxArea = 0
+        stack = []  # pair: (index, height)
+        
+        # Straight way
+        for i, h in enumerate(heights):
+            start = i
+            while stack and stack[-1][1] > h:
+                index, height = stack.pop()
+                maxArea = max(maxArea, height * (i - index))
+                start = index
+            stack.append((start, h))
+
+        # Width way
+        for i, h in stack:
+            maxArea = max(maxArea, h * (len(heights) - i))
+        return maxArea
+
+# My solution (Practice again by myself)
+class My_Solution:
+    def My_largestRectangleArea(self, heights: List[int]) -> int:
+        maxarea = 0
+        stack = []
+        
+        # Calculating for the vertical direct area
+        for i in range(len(heights)):
+            start = i
+            while stack and (stack[-1][1] > heights[i]) :
+                index, height = stack.pop()
+                maxarea = max(maxarea, height * (i-index))
+                start = index
+            stack.append([start, heights[i]])
+        
+        # Calculating for the horizon direct area (The number from stack)
+        for index, height in stack:
+            maxarea = max(maxarea, height * (len(heights) - index) )
+            
+        return maxarea
