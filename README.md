@@ -16,7 +16,7 @@
 |  2023/4/14       | Medium | Stack         | Car Fleet                       | &#x2705;                   |
 |  2023/4/15(23)   | Hard   | Stack         | Largest Rectangle In Histogram  | &#x2705;                   |
 |  2023/5/6        | Easy   | Two pointer   | Valid Palindrome                | &#x2705;                   |
-|  2023/5/6        | Easy   | Binary Search | Binary Search                   | :hourglass_flowing_sand:   |
+|  2023/5/6        | Easy   | Binary Search | Binary Search                   | &#x2705;                   |
  
 ## Contest
 
