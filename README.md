@@ -21,12 +21,14 @@
  
 ## Contest
 
-|  Practice Date   | Degree | Problem Name                        | Still in the progress | Time    | Bug        |
-|  -------------   | ------ | ------------                        | --------------------  | ----    | ---        |
-|  2023/4/9        | Easy   | Prime In Diagonal                   | &#x2705;              | 1:11:37 | 5 :beetle: |
-|  2023/4/16       | Easy   | Row With Maximum Ones               | &#x2705;              | 0:40:47 | 2 :beetle: |
-|  2023/4/16       | Medium | Find the Maximum Divisibility Score | &#x2705;              | 1:16:44 | 3 :beetle: |
-|  2023/4/23       | Easy   | Calculate Delayed Arrival Time      | &#x2705;              | 0:06:35 | 0          |
-|  2023/4/23       | Easy   | Sum Multiples                       | &#x2705;              | 0:12:25 | 0          |
-|  2023/5/7        | Easy   | Find the Distinct Difference Array  | &#x2705;              | 0:20:50 | 0          |
-|  2023/5/7        | Medium | Frequency Tracker                   | :shit:                | Nan     | 8 :beetle: |
+|  Practice Date   | Degree | Problem Name                         | Still in the progress | Time    | Bug        |
+|  -------------   | ------ | ------------                         | --------------------  | ----    | ---        |
+|  2023/4/9        | Easy   | Prime In Diagonal                    | &#x2705;              | 1:11:37 | 5 :beetle: |
+|  2023/4/16       | Easy   | Row With Maximum Ones                | &#x2705;              | 0:40:47 | 2 :beetle: |
+|  2023/4/16       | Medium | Find the Maximum Divisibility Score  | &#x2705;              | 1:16:44 | 3 :beetle: |
+|  2023/4/23       | Easy   | Calculate Delayed Arrival Time       | &#x2705;              | 0:06:35 | 0          |
+|  2023/4/23       | Easy   | Sum Multiples                        | &#x2705;              | 0:12:25 | 0          |
+|  2023/5/7        | Easy   | Find the Distinct Difference Array   | &#x2705;              | 0:20:50 | 0          |
+|  2023/5/7        | Medium | Frequency Tracker                    | :shit:                | Nan     | 8 :beetle: |
+|  2023/5/14       | Easy   | Find the Losers of the Circular Game | &#x2705;              | 0:35:04 | 2 :beetle: |
+|  2023/5/14       | Medium | Neighboring Bitwise XOR              | &#x2705;              | 1:16:41 | 1 :beetle: |
