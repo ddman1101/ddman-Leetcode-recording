@@ -33,3 +33,6 @@
 |  2023/5/14       | Easy   | Find the Losers of the Circular Game            | &#x2705;              | 0:35:04 | 2 :beetle: |
 |  2023/5/14       | Medium | Neighboring Bitwise XOR                         | &#x2705;              | 1:16:41 | 1 :beetle: |
 |  2023/5/21       | Easy   | Minimum String Length After Removing Substrings | &#x2705;              | 1:21:25 | 2 :beetle: |
+|  2023/5/28       | Easy   | Remove Trailing Zeros From a String             | &#x2705;              | 0:13:12 | 0          |
+|  2023/6/4        | Medium | Minimize String Length                          | &#x2705;              | 0:17:59 | 0          |
+|  2023/6/4        | Easy   | Semi-Ordered Permutation                        | &#x2705;              | 1:14:10 | 0          |
